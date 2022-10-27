@@ -2,5 +2,18 @@
 
 <br />
 
-# Init
-Hello World, this is Wil; I for am here now yourself me
+# Facets
+<table>
+  <tr>
+    <td>Physics</td>
+    <td>Computers</td>
+    <td>Math</td>
+    <td>Economics</td>
+  </tr>
+  <tr>
+   <td></td>
+   <td></td>
+   <td></td>
+   <td></td>
+  </tr>
+</table>
