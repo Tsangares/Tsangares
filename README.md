@@ -28,10 +28,10 @@
 </a>
 
 <a href="https://github.com/Tsangares">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tsangares" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tsangares&repo=stoned_ape_tools" />
 </a>
 
 
 <a href="https://github.com/Tsangares">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tsangares" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tsangares&repo=stoned_ape_tools" />
 </a>   
