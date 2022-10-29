@@ -12,16 +12,24 @@
     <tr>
         <td>
             <table>
-                <tr>Bots Bots Bots! Crawlers, Runescape, Automation</tr>
-                <tr>IOT Development: Winner of a Hackathon</tr>
-                <tr>Full-Stack: Express, Django, Flask, React, MongoDB, mySQL, Redis</tr>
-                <tr>Rust: IOTA DLT Development using Smart Contracts</tr>
+                <tr>
+                    <td>Bots Bots Bots! Crawlers, Runescape, Automation</td>
+                </tr>
+                <tr>
+                    <td>IOT Development: Winner of a Hackathon</td>
+                </tr>
+                <tr>
+                    <td>Full-Stack: Express, Django, Flask, React, MongoDB, mySQL, Redis</td>
+                </tr>
+                <tr>
+                    <td>Rust: IOTA DLT Development using Smart Contracts</td>
+                </tr>
             </table>
         </td>
     </tr>
     <tr>
-        <tr>Silicon Photodiode</tr>
-        <tr>Low Gain Avalanche Detector</tr>
+        <td>Silicon Photodiode</td>
+        <td>Low Gain Avalanche Detector</td>
     </tr>
     <tr>
         <td>
@@ -45,12 +53,13 @@
         <td>Economics</td>
     </tr>
     <tr>
-        <ul>
-            <li>PhD</li>
-            <li>Causal Inference</li>
-            <li>Labor Economics</li>
-            <li>Police Discrimination</li>
-        </ul>
+        <td>
+            <ul>
+                <li>PhD</li>
+                <li>Causal Inference</li>
+                <li>Labor Economics</li>
+                <li>Police Discrimination</li>
+            </ul>
         </td>
     </tr>
 </table>
@@ -62,9 +71,3 @@
             alt="Wil's GitHub Stats" />
     </a>
 </div>
-
-### Other Things I love
-
-1. Discussions
-2. About
-3. Everything
