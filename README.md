@@ -4,27 +4,19 @@
 <br />
 
 # Facets
-<table align="center">
+<ul align="center">
     <tr>
         <td>Physics</td>
         <td>Computers</td>
     </tr>
     <tr>
         <td>
-            <table>
-                <tr>
-                    <td>Bots Bots Bots! Crawlers, Runescape, Automation</td>
-                </tr>
-                <tr>
-                    <td>IOT Development: Winner of a Hackathon</td>
-                </tr>
-                <tr>
-                    <td>Full-Stack: Express, Django, Flask, React, MongoDB, mySQL, Redis</td>
-                </tr>
-                <tr>
-                    <td>Rust: IOTA DLT Development using Smart Contracts</td>
-                </tr>
-            </table>
+            <ul>
+                <li>Bots Bots Bots! Crawlers, Runescape, Automation</li>
+                <li>IOT Development: Winner of a Hackathon</li>
+                <li>Full-Stack: Express, Django, Flask, React, MongoDB, mySQL, Redis</li>
+                <li>Rust: IOTA DLT Development using Smart Contracts</li>
+            </ul>
         </td>
         <td>
             <ul>
@@ -57,7 +49,7 @@
             </ul>
         </td>
     </tr>
-</table>
+</ul>
 
 <div align="center">
     <a align="center" href="https://github.com/Tsangares">
