@@ -26,18 +26,18 @@
                 </tr>
             </table>
         </td>
-    </tr>
-    <tr>
-        <td>Silicon Photodiode</td>
-        <td>Low Gain Avalanche Detector</td>
-    </tr>
-    <tr>
         <td>
             <ul>
                 <li>Bachelors</li>
                 <li>Particle Physics</li>
+                <li>Silicon Photodiode</li>
+                <li>Low Gain Avalanche Detector</li>
             </ul>
         </td>
+    </tr>
+    <tr>
+        <td>Math</td>
+        <td>Economics</td>
     </tr>
     <tr>
         <td>
@@ -48,11 +48,6 @@
                 <li>Non-Parametric Statistics</li>
             </ul>
         </td>
-    <tr>
-        <td>Math</td>
-        <td>Economics</td>
-    </tr>
-    <tr>
         <td>
             <ul>
                 <li>PhD</li>
