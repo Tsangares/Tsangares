@@ -4,7 +4,7 @@
 <br />
 
 # Facets
-<ul align="center">
+<table align="center">
     <tr>
         <td>Physics</td>
         <td>Computers</td>
@@ -49,7 +49,7 @@
             </ul>
         </td>
     </tr>
-</ul>
+</table>
 
 <div align="center">
     <a align="center" href="https://github.com/Tsangares">
@@ -58,3 +58,9 @@
             alt="Wil's GitHub Stats" />
     </a>
 </div>
+
+### Other Things I love
+
+1. Discussions
+2. About
+3. Everything
