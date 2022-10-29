@@ -11,13 +11,43 @@
     <td>Economics</td>
   </tr>
   <tr>
-   <td></td>
-   <td></td>
-   <td></td>
-   <td></td>
+   <td>
+     <ul>
+       <li>Bachelors</li>
+       <li>Particle Physics</li>
+       <li>Silicon Photodiode</li>
+       <li>Low Gain Avalanche Detector</li>
+     </ul>
+   </td>
+   <td>
+     <ul>
+       <li>Bots Bots Bots! Crawlers, Runescape, Automation</li>
+       <li>IOT Development: Winner of a Hackathon</li>
+       <li>Full-Stack: Express, Django, Flask, React, MongoDB, mySQL, Redis</li>
+       <li>Rust: IOTA DLT Development using Smart Contracts</li>
+     </ul>
+   </td>
+   <td>
+     <ul>
+       <li>PhD</li>
+       <li>OPtimozation</li>
+       <li>Machine-Learning</li>
+       <li>Non-Parametric Statistics</li>
+     </ul>
+   </td>
+   <td>
+     <ul>
+       <li>PhD</li>
+       <li>Causal Inference</li>
+       <li>Labor Economics</li>
+       <li>Police Discrimination</li>
+     </ul>
+   </td>
   </tr>
 </table>
 
+<div align="center">
 <a align="center" href="https://github.com/Tsangares">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Tsangares&show_icons=true&line_height=27&count_private=truetext_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Wil's GitHub Stats" />
 </a>
+</div>
