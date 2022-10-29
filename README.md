@@ -15,10 +15,9 @@
      <ul>
        <li>Bachelors</li>
        <li>Particle Physics</li>
-       <li>Silicon Photodiode</li>
-       <li>Low Gain Avalanche Detector</li>
      </ul>
    </td>
+    
    <td>
      <ul>
        <li>Bots Bots Bots! Crawlers, Runescape, Automation</li>
@@ -27,7 +26,15 @@
        <li>Rust: IOTA DLT Development using Smart Contracts</li>
      </ul>
    </td>
-   <td>
+   
+  </tr>
+  <tr>
+    
+       <li>Silicon Photodiode</li>
+       <li>Low Gain Avalanche Detector</li>
+  </tr>
+  <tr>
+    <td>
      <ul>
        <li>PhD</li>
        <li>OPtimozation</li>
@@ -51,3 +58,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Tsangares&show_icons=true&line_height=27&count_private=truetext_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Wil's GitHub Stats" />
 </a>
 </div>
+
+### Other Things I love
+
+1. Discussions
+2. About
+3. Everything
