@@ -28,7 +28,7 @@
         </td>
     </tr>
     <tr>
-        <td>Math</td>
+        <td>Mathematics</td>
         <td>Economics</td>
     </tr>
     <tr>
@@ -59,8 +59,6 @@
     </a>
 </div>
 
-### Other Things I love
+# Common Thread
 
-1. Discussions
-2. About
-3. Everything
+My 
