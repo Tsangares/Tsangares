@@ -53,7 +53,7 @@ wil@arch:~/research$ cat interests.txt
 | [TrueNorth](https://github.com/Tsangares/TrueNorth-AIxHEART-2025-Discord) | Agentic RAG using PERMA+4 framework for STEM engagement |
 | [ApexLabel](https://github.com/Tsangares/ApexLabel) | YOLO annotation tool bootstrapped with SAM + CLIP embeddings |
 | [market](https://github.com/Tsangares/market) | Agent-based free market simulation modeling competitive equilibrium |
-| [mturk_server](https://github.com/Tsangares/mturk_server) | Web interface for managing behavioral experiments on MTurk |
+| [iotaworkshop](https://github.com/Tsangares/iotaworkshop) | IOTA-based equipment rental marketplace — hackathon winner |
 
 ---
 
